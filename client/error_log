@@ -1,0 +1,185 @@
+[18-Apr-2017 10:29:24 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/muhasdqu/new.muhammadimran.info/pricing/client/connect.php on line 3
+[18-Apr-2017 10:29:24 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/muhasdqu/new.muhammadimran.info/pricing/client/db.php on line 8
+[18-Apr-2017 10:29:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/muhasdqu/new.muhammadimran.info/pricing/client/db.php on line 11
+[18-Apr-2017 10:29:24 America/New_York] PHP Fatal error:  Call to a member function query() on boolean in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 45
+[18-Apr-2017 10:34:31 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/muhasdqu/new.muhammadimran.info/pricing/client/connect.php on line 3
+[18-Apr-2017 10:34:31 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 579
+[18-Apr-2017 10:34:47 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/muhasdqu/new.muhammadimran.info/pricing/client/connect.php on line 3
+[18-Apr-2017 10:34:47 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 579
+[18-Apr-2017 10:35:37 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[18-Apr-2017 10:35:37 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 579
+[18-Apr-2017 10:35:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[18-Apr-2017 10:35:52 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 579
+[18-Apr-2017 10:36:13 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[18-Apr-2017 10:36:13 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 579
+[18-Apr-2017 10:36:37 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[18-Apr-2017 10:36:37 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 579
+[18-Apr-2017 10:37:25 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[18-Apr-2017 10:37:25 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 579
+[18-Apr-2017 10:38:09 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[18-Apr-2017 10:38:09 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 579
+[18-Apr-2017 10:38:41 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[18-Apr-2017 10:38:41 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 579
+[18-Apr-2017 10:39:34 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[18-Apr-2017 10:39:34 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 579
+[18-Apr-2017 10:39:44 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[18-Apr-2017 10:39:44 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 579
+[21-Apr-2017 10:12:35 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 579
+[21-Apr-2017 10:12:46 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 579
+[25-Apr-2017 02:00:19 America/New_York] PHP Notice:  Undefined index: user_type in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[25-Apr-2017 02:00:19 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 594
+[25-Apr-2017 04:02:14 America/New_York] PHP Notice:  Undefined index: user_type in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[25-Apr-2017 04:02:14 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 594
+[25-Apr-2017 09:18:18 America/New_York] PHP Notice:  Undefined index: user_type in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[25-Apr-2017 09:18:18 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 597
+[25-Apr-2017 09:18:19 America/New_York] PHP Notice:  Undefined index: user_type in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[25-Apr-2017 09:18:19 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 597
+[25-Apr-2017 09:18:29 America/New_York] PHP Notice:  Undefined index: user_type in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[25-Apr-2017 09:18:29 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 597
+[26-Apr-2017 21:38:24 America/New_York] PHP Notice:  Undefined index: user_type in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 4
+[26-Apr-2017 21:38:24 America/New_York] PHP Notice:  Undefined variable: user_id in /home/muhasdqu/new.muhammadimran.info/pricing/client/index.php on line 597
+[28-Apr-2017 11:08:47 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[28-Apr-2017 11:09:29 America/New_York] PHP Notice:  Undefined index: user_type in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 4
+[28-Apr-2017 11:09:29 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[28-Apr-2017 11:10:11 America/New_York] PHP Notice:  Undefined index: user_type in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 4
+[28-Apr-2017 11:10:11 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[28-Apr-2017 11:11:56 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[28-Apr-2017 18:33:42 America/New_York] PHP Notice:  Undefined index: user_type in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 4
+[28-Apr-2017 18:33:42 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[28-Apr-2017 19:32:01 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[28-Apr-2017 19:32:09 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[28-Apr-2017 20:07:01 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[28-Apr-2017 20:16:56 America/New_York] PHP Notice:  Undefined index: user_type in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 4
+[28-Apr-2017 20:16:56 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[28-Apr-2017 20:18:33 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[28-Apr-2017 21:17:47 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[28-Apr-2017 21:20:20 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[29-Apr-2017 09:08:52 America/New_York] PHP Notice:  Undefined index: user_type in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 4
+[29-Apr-2017 09:08:52 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[29-Apr-2017 09:09:18 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[01-May-2017 06:45:08 America/New_York] PHP Notice:  Undefined index: user_type in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 4
+[01-May-2017 06:45:08 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[01-May-2017 06:45:45 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[01-May-2017 06:46:45 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[01-May-2017 06:57:35 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[01-May-2017 06:57:41 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[02-May-2017 06:13:14 America/New_York] PHP Notice:  Undefined index: user_type in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 4
+[02-May-2017 06:13:14 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[02-May-2017 06:18:49 America/New_York] PHP Notice:  Undefined index: user_type in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 4
+[02-May-2017 06:18:49 America/New_York] PHP Notice:  Undefined variable: name in /home/muhasdqu/new.muhammadimran.info/fourclick/client/index.php on line 658
+[02-May-2017 22:53:07 Australia/Sydney] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fourc385/public_html/contractor/db/connect.php:11) in /home/fourc385/public_html/client/index.php on line 6
+[02-May-2017 22:53:55 Australia/Sydney] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fourc385/public_html/contractor/db/connect.php:11) in /home/fourc385/public_html/client/index.php on line 6
+[09-May-2017 19:13:54 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/fourc385/public_html/client/index.php on line 359
+[09-May-2017 19:54:32 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/fourc385/public_html/client/index.php on line 78
+[09-May-2017 19:56:35 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/fourc385/public_html/client/index.php on line 78
+[09-May-2017 19:57:28 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/fourc385/public_html/client/index.php on line 78
+[09-May-2017 19:57:50 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/fourc385/public_html/client/index.php on line 78
+[09-May-2017 20:00:55 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/fourc385/public_html/client/index.php on line 78
+[09-May-2017 20:01:17 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/fourc385/public_html/client/index.php on line 78
+[09-May-2017 20:02:00 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/fourc385/public_html/client/index.php on line 78
+[09-May-2017 20:02:12 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/fourc385/public_html/client/index.php on line 78
+[10-May-2017 04:00:27 Australia/Sydney] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/fourc385/public_html/client/index.php on line 371
+[16-May-2017 17:27:48 Australia/Sydney] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/fourc385/public_html/client/client.php on line 88
+[16-May-2017 17:44:11 Australia/Sydney] PHP Warning:  include(../contractor/conn/connect.php): failed to open stream: No such file or directory in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:11 Australia/Sydney] PHP Warning:  include(../contractor/conn/connect.php): failed to open stream: No such file or directory in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:11 Australia/Sydney] PHP Warning:  include(): Failed opening '../contractor/conn/connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:11 Australia/Sydney] PHP Fatal error:  Call to a member function query() on null in /home/fourc385/public_html/client/ajaxdata.php on line 9
+[16-May-2017 17:44:17 Australia/Sydney] PHP Warning:  include(../contractor/conn/connect.php): failed to open stream: No such file or directory in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:17 Australia/Sydney] PHP Warning:  include(../contractor/conn/connect.php): failed to open stream: No such file or directory in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:17 Australia/Sydney] PHP Warning:  include(): Failed opening '../contractor/conn/connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:17 Australia/Sydney] PHP Fatal error:  Call to a member function query() on null in /home/fourc385/public_html/client/ajaxdata.php on line 9
+[16-May-2017 17:44:20 Australia/Sydney] PHP Warning:  include(../contractor/conn/connect.php): failed to open stream: No such file or directory in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:20 Australia/Sydney] PHP Warning:  include(../contractor/conn/connect.php): failed to open stream: No such file or directory in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:20 Australia/Sydney] PHP Warning:  include(): Failed opening '../contractor/conn/connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:20 Australia/Sydney] PHP Fatal error:  Call to a member function query() on null in /home/fourc385/public_html/client/ajaxdata.php on line 9
+[16-May-2017 17:44:30 Australia/Sydney] PHP Warning:  include(../contractor/conn/connect.php): failed to open stream: No such file or directory in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:30 Australia/Sydney] PHP Warning:  include(../contractor/conn/connect.php): failed to open stream: No such file or directory in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:30 Australia/Sydney] PHP Warning:  include(): Failed opening '../contractor/conn/connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:30 Australia/Sydney] PHP Fatal error:  Call to a member function query() on null in /home/fourc385/public_html/client/ajaxdata.php on line 9
+[16-May-2017 17:44:48 Australia/Sydney] PHP Warning:  include(../contractor/conn/connect.php): failed to open stream: No such file or directory in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:48 Australia/Sydney] PHP Warning:  include(../contractor/conn/connect.php): failed to open stream: No such file or directory in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:48 Australia/Sydney] PHP Warning:  include(): Failed opening '../contractor/conn/connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:44:48 Australia/Sydney] PHP Fatal error:  Call to a member function query() on null in /home/fourc385/public_html/client/ajaxdata.php on line 9
+[16-May-2017 17:47:50 Australia/Sydney] PHP Warning:  include(../contractor/conn/connect.php): failed to open stream: No such file or directory in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:47:50 Australia/Sydney] PHP Warning:  include(../contractor/conn/connect.php): failed to open stream: No such file or directory in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:47:50 Australia/Sydney] PHP Warning:  include(): Failed opening '../contractor/conn/connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:47:50 Australia/Sydney] PHP Fatal error:  Call to a member function query() on null in /home/fourc385/public_html/client/ajaxdata.php on line 9
+[16-May-2017 17:47:52 Australia/Sydney] PHP Warning:  include(../contractor/conn/connect.php): failed to open stream: No such file or directory in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:47:52 Australia/Sydney] PHP Warning:  include(../contractor/conn/connect.php): failed to open stream: No such file or directory in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:47:52 Australia/Sydney] PHP Warning:  include(): Failed opening '../contractor/conn/connect.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fourc385/public_html/client/ajaxdata.php on line 4
+[16-May-2017 17:47:52 Australia/Sydney] PHP Fatal error:  Call to a member function query() on null in /home/fourc385/public_html/client/ajaxdata.php on line 9
+[16-May-2017 17:52:48 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:52:53 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:52:59 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:53:03 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:53:08 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:53:18 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:53:27 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:53:32 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:53:34 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:53:39 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:53:40 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:53:53 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:53:57 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:54:02 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:54:27 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:54:38 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:54:43 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:54:48 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:54:56 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:54:59 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:55:01 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 17:55:05 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 18:03:46 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 18:03:51 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 18:03:57 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 18:04:04 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 18:04:17 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 18:05:06 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 18:05:12 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 18:05:18 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 18:06:47 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 18:06:52 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 18:07:02 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 18:08:00 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 18:08:07 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 18:08:11 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 19:06:49 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 19:14:35 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 19:14:40 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 19:53:14 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 19:53:21 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 19:59:25 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 19:59:30 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 20:00:48 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 20:51:38 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 20:53:06 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 20:54:36 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 20:54:43 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 21:01:32 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 21:01:36 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[16-May-2017 21:15:49 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/client/ajaxdata.php:2) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[17-May-2017 05:52:00 Australia/Sydney] PHP Fatal error:  Call to a member function query() on null in /home/fourc385/public_html/client/ajaxdata.php on line 27
+[17-May-2017 05:52:07 Australia/Sydney] PHP Fatal error:  Call to a member function query() on null in /home/fourc385/public_html/client/ajaxdata.php on line 27
+[17-May-2017 05:52:39 Australia/Sydney] PHP Fatal error:  Call to a member function query() on null in /home/fourc385/public_html/client/ajaxdata.php on line 27
+[17-May-2017 06:23:05 Australia/Sydney] PHP Fatal error:  Call to a member function query() on null in /home/fourc385/public_html/client/ajaxdata.php on line 26
+[17-May-2017 06:23:10 Australia/Sydney] PHP Fatal error:  Call to a member function query() on null in /home/fourc385/public_html/client/ajaxdata.php on line 26
+[17-May-2017 06:23:25 Australia/Sydney] PHP Fatal error:  Call to a member function query() on null in /home/fourc385/public_html/client/ajaxdata.php on line 26
+[17-May-2017 17:27:28 Australia/Sydney] PHP Parse error:  syntax error, unexpected '<' in /home/fourc385/public_html/client/client.php on line 154
+[23-May-2017 20:06:36 Australia/Sydney] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-May-2017 20:06:36 Australia/Sydney] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fourc385/public_html/contractor/db/connect.php on line 11
+[23-May-2017 20:06:54 Australia/Sydney] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-May-2017 20:06:54 Australia/Sydney] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fourc385/public_html/contractor/db/connect.php on line 11
+[23-May-2017 20:13:57 Australia/Sydney] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20131226/pdo_mysql.so: undefined symbol: mysqlnd_allocator in Unknown on line 0
+[23-May-2017 20:13:57 Australia/Sydney] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/fourc385/public_html/contractor/db/connect.php on line 11
+[24-May-2017 07:14:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fourc385/public_html/client/ajaxdata.php on line 161
+[24-May-2017 07:15:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fourc385/public_html/client/ajaxdata.php on line 161
+[24-May-2017 07:16:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/fourc385/public_html/client/ajaxdata.php on line 66
+[24-May-2017 07:19:07 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/fourc385/public_html/client/ajaxdata.php on line 66
+[24-May-2017 07:45:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fourc385/public_html/client/ajaxdata.php on line 80
+[24-May-2017 07:45:43 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fourc385/public_html/client/ajaxdata.php on line 80
+[24-May-2017 07:48:20 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fourc385/public_html/client/ajaxdata.php on line 75
+[24-May-2017 07:48:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fourc385/public_html/client/ajaxdata.php on line 75
+[24-May-2017 07:50:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fourc385/public_html/client/ajaxdata.php on line 75
+[24-May-2017 07:51:03 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fourc385/public_html/client/ajaxdata.php on line 75
+[24-May-2017 07:51:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fourc385/public_html/client/ajaxdata.php on line 75

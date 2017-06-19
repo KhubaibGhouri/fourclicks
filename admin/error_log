@@ -1,0 +1,73 @@
+
+[26-Apr-2017 09:14:04 America/New_York] PHP Notice:  Undefined index: expiry_date in /home/muhasdqu/new.muhammadimran.info/pricing/admin/admin-client.php on line 44
+[26-Apr-2017 09:15:32 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/muhasdqu/new.muhammadimran.info/pricing/admin/admin-contractor.php on line 3
+[26-Apr-2017 09:15:32 America/New_York] PHP Notice:  Undefined index: expiry_date in /home/muhasdqu/new.muhammadimran.info/pricing/admin/admin-contractor.php on line 45
+[26-Apr-2017 09:34:32 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/muhasdqu/new.muhammadimran.info/pricing/admin/admin-contractor.php on line 51
+[06-May-2017 17:15:17 Australia/Sydney] PHP Parse error:  syntax error, unexpected end of file in /home/fourc385/public_html/admin/services.php on line 133
+[06-May-2017 17:26:47 Australia/Sydney] PHP Warning:  Illegal string offset 'serv_id' in /home/fourc385/public_html/admin/services.php on line 36
+[06-May-2017 17:26:47 Australia/Sydney] PHP Warning:  Illegal string offset 'serv_name' in /home/fourc385/public_html/admin/services.php on line 41
+[06-May-2017 17:27:51 Australia/Sydney] PHP Warning:  Illegal string offset 'serv_id' in /home/fourc385/public_html/admin/services.php on line 36
+[06-May-2017 17:27:51 Australia/Sydney] PHP Warning:  Illegal string offset 'serv_name' in /home/fourc385/public_html/admin/services.php on line 41
+[06-May-2017 17:28:46 Australia/Sydney] PHP Warning:  Illegal string offset 'serv_name' in /home/fourc385/public_html/admin/services.php on line 24
+[06-May-2017 17:28:46 Australia/Sydney] PHP Warning:  Illegal string offset 'serv_id' in /home/fourc385/public_html/admin/services.php on line 37
+[06-May-2017 17:28:46 Australia/Sydney] PHP Warning:  Illegal string offset 'serv_name' in /home/fourc385/public_html/admin/services.php on line 42
+[06-May-2017 17:34:46 Australia/Sydney] PHP Warning:  Illegal string offset 'serv_name' in /home/fourc385/public_html/admin/services.php on line 24
+[06-May-2017 17:34:46 Australia/Sydney] PHP Warning:  Illegal string offset 'serv_id' in /home/fourc385/public_html/admin/services.php on line 37
+[06-May-2017 17:34:46 Australia/Sydney] PHP Warning:  Illegal string offset 'serv_name' in /home/fourc385/public_html/admin/services.php on line 42
+[06-May-2017 17:36:18 Australia/Sydney] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/fourc385/public_html/admin/services.php on line 22
+[06-May-2017 17:36:18 Australia/Sydney] PHP Warning:  Invalid argument supplied for foreach() in /home/fourc385/public_html/admin/services.php on line 23
+[06-May-2017 17:39:46 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/fourc385/public_html/admin/services.php on line 24
+[06-May-2017 17:52:41 Australia/Sydney] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fourc385/public_html/header1.php:72) in /home/fourc385/public_html/admin/services.php on line 44
+[06-May-2017 17:54:39 Australia/Sydney] PHP Fatal error:  Call to a member function query() on null in /home/fourc385/public_html/admin/services.php on line 6
+[06-May-2017 17:56:21 Australia/Sydney] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fourc385/public_html/admin/services.php:1) in /home/fourc385/public_html/admin/services.php on line 31
+[06-May-2017 17:57:37 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/admin/services.php:1) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[06-May-2017 17:57:37 Australia/Sydney] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fourc385/public_html/admin/services.php:1) in /home/fourc385/public_html/admin/services.php on line 31
+[06-May-2017 17:58:58 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/admin/services.php:1) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[06-May-2017 17:58:58 Australia/Sydney] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fourc385/public_html/admin/services.php:1) in /home/fourc385/public_html/admin/services.php on line 31
+[06-May-2017 18:00:32 Australia/Sydney] PHP Parse error:  syntax error, unexpected '=' in /home/fourc385/public_html/admin/services.php on line 31
+[06-May-2017 18:01:39 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/admin/services.php:1) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[06-May-2017 18:02:08 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/admin/services.php:1) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[06-May-2017 18:02:23 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/admin/services.php:1) in /home/fourc385/public_html/contractor/db/connect.php on line 2
+[06-May-2017 18:03:54 Australia/Sydney] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fourc385/public_html/admin/services.php:1) in /home/fourc385/public_html/admin/services.php on line 4
+[06-May-2017 18:04:53 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/admin/services.php:1) in /home/fourc385/public_html/admin/services.php on line 2
+[06-May-2017 18:05:22 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/admin/services.php:1) in /home/fourc385/public_html/admin/services.php on line 2
+[06-May-2017 18:06:48 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/admin/services.php:1) in /home/fourc385/public_html/admin/services.php on line 38
+[06-May-2017 18:07:40 Australia/Sydney] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/fourc385/public_html/admin/services.php:1) in /home/fourc385/public_html/admin/services.php on line 38
+[06-May-2017 20:09:09 Australia/Sydney] PHP Parse error:  syntax error, unexpected ';' in /home/fourc385/public_html/admin/services.php on line 150
+[06-May-2017 21:02:49 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/fourc385/public_html/admin/admin-prices.php on line 28
+[06-May-2017 21:04:43 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}' in /home/fourc385/public_html/admin/admin-prices.php on line 28
+[07-May-2017 01:07:51 Australia/Sydney] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fourc385/public_html/admin/admin-client.php on line 69
+[09-May-2017 22:39:50 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/fourc385/public_html/admin/update-info.php on line 116
+[09-May-2017 22:40:13 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/fourc385/public_html/admin/update-info.php on line 116
+[09-May-2017 22:41:25 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/fourc385/public_html/admin/update-info.php on line 116
+[09-May-2017 22:41:33 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/fourc385/public_html/admin/update-info.php on line 116
+[09-May-2017 22:42:03 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/fourc385/public_html/admin/update-info.php on line 116
+[09-May-2017 22:44:29 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/fourc385/public_html/admin/update-info.php on line 116
+[09-May-2017 22:45:59 Australia/Sydney] PHP Parse error:  syntax error, unexpected '$result21' (T_VARIABLE) in /home/fourc385/public_html/admin/update-info.php on line 112
+[09-May-2017 22:46:28 Australia/Sydney] PHP Warning:  mysqli::query(): Empty query in /home/fourc385/public_html/admin/update-info.php on line 113
+[09-May-2017 22:46:28 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/fourc385/public_html/admin/update-info.php on line 116
+[09-May-2017 22:47:14 Australia/Sydney] PHP Warning:  mysqli::query(): Empty query in /home/fourc385/public_html/admin/update-info.php on line 113
+[09-May-2017 22:47:14 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/fourc385/public_html/admin/update-info.php on line 116
+[09-May-2017 22:47:49 Australia/Sydney] PHP Warning:  mysqli::query(): Empty query in /home/fourc385/public_html/admin/update-info.php on line 113
+[09-May-2017 22:47:49 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/fourc385/public_html/admin/update-info.php on line 116
+[09-May-2017 22:49:23 Australia/Sydney] PHP Warning:  mysqli::query(): Empty query in /home/fourc385/public_html/admin/update-info.php on line 113
+[09-May-2017 22:49:23 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/fourc385/public_html/admin/update-info.php on line 116
+[09-May-2017 22:59:43 Australia/Sydney] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/fourc385/public_html/admin/update-info.php on line 32
+[09-May-2017 23:22:34 Australia/Sydney] PHP Parse error:  syntax error, unexpected 'type' (T_STRING) in /home/fourc385/public_html/admin/update-info.php on line 61
+[09-May-2017 23:22:37 Australia/Sydney] PHP Parse error:  syntax error, unexpected 'type' (T_STRING) in /home/fourc385/public_html/admin/update-info.php on line 61
+[10-May-2017 00:30:07 Australia/Sydney] PHP Warning:  mysqli_query(): Empty query in /home/fourc385/public_html/admin/admin-contractor.php on line 40
+[10-May-2017 00:33:12 Australia/Sydney] PHP Warning:  mysqli_query(): Empty query in /home/fourc385/public_html/admin/admin-contractor.php on line 40
+[10-May-2017 00:35:15 Australia/Sydney] PHP Warning:  mysqli_query(): Empty query in /home/fourc385/public_html/admin/admin-contractor.php on line 40
+[10-May-2017 00:35:24 Australia/Sydney] PHP Warning:  mysqli_query(): Empty query in /home/fourc385/public_html/admin/admin-contractor.php on line 40
+[10-May-2017 00:36:06 Australia/Sydney] PHP Warning:  mysqli_query(): Empty query in /home/fourc385/public_html/admin/admin-contractor.php on line 40
+[10-May-2017 00:40:13 Australia/Sydney] PHP Warning:  mysqli_query(): Empty query in /home/fourc385/public_html/admin/admin-contractor.php on line 40
+[10-May-2017 00:40:39 Australia/Sydney] PHP Warning:  mysqli_query(): Empty query in /home/fourc385/public_html/admin/admin-contractor.php on line 40
+[10-May-2017 17:54:06 Australia/Sydney] PHP Parse error:  syntax error, unexpected ')' in /home/fourc385/public_html/admin/change-password.php on line 35
+[10-May-2017 18:55:32 Australia/Sydney] PHP Warning:  mysqli_query(): Empty query in /home/fourc385/public_html/admin/change-password.php on line 47
+[10-May-2017 18:58:03 Australia/Sydney] PHP Warning:  mysqli_query(): Empty query in /home/fourc385/public_html/admin/change-password.php on line 47
+[10-May-2017 19:01:03 Australia/Sydney] PHP Warning:  mysqli_query(): Empty query in /home/fourc385/public_html/admin/change-password.php on line 47
+[10-May-2017 19:02:08 Australia/Sydney] PHP Warning:  mysqli_query(): Empty query in /home/fourc385/public_html/admin/change-password.php on line 47
+[18-May-2017 17:09:16 Australia/Sydney] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/fourc385/public_html/admin/update-info.php on line 128
+[18-May-2017 17:11:35 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/fourc385/public_html/admin/update-info.php on line 123
+[18-May-2017 17:12:08 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/fourc385/public_html/admin/update-info.php on line 123
+[18-May-2017 19:46:33 Australia/Sydney] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/fourc385/public_html/admin/update-info.php on line 244

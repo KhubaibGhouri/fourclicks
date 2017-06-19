@@ -1,0 +1,15 @@
+<?php require_once ('inc/db/db.php');?>
+<?php
+if (isset($_GET['del'])) {
+	$id = $_GET['del'];
+
+	$sql = "DELETE FROM coder WHERE id='$id'";
+
+	if ($conn->query($sql) === TRUE) {
+		echo "del record created successfully";
+	} else {
+		echo "Error: ".$sql."<br>".$conn->error;
+	}
+	header('Location: contractor.php');
+}
+?>

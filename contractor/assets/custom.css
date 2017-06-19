@@ -1,0 +1,132 @@
+/* Have fun adding your style here :) - PS: At all times this file should contain a comment or a rule, otherwise opera might act buggy :( */
+
+/* General Custom CSS */
+
+
+
+
+/*
+Desktop Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the desktop view of your site */
+
+@media only screen and (min-width: 768px) {
+  /* Add your Desktop Styles here */
+
+#last{
+    width: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+lim{
+    display: inline;
+    text-decoration: none;
+    width: 3px;
+    border: 1px solid black;
+}
+bodym{
+    background-color: #FFFFFF;
+}
+.Lib1{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #154B77;
+    font-weight: 600;
+    height: 30px;
+    background: #D8E5ED;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.documenttype{
+    position: relative;
+    top: 18px;
+}
+.contractorname{
+    border-bottom: 1px solid #AAAAAA;
+}
+.buttontype{
+    background-color: #ffffff !important;
+    color: #aaaaaa;
+    border: none !important;
+}
+.buttontype:hover {
+    background-color: #ffffff !important;
+    color: #aaaaaa;
+    border: none !important;
+}
+am{
+    text-decoration: none;
+    
+}
+.document{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #337ab7
+    width:400px;
+}
+.glyphicon-plus{
+    border: 2px solid;
+    border-radius: 10px;
+}
+.expireddoc{
+    position: relative;
+    top: 100px;
+}
+.mainimg{
+    background-image: url("img/12.png");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 1000px;
+}
+.disply{
+    width: 200px;
+}
+.btnm:focus  {
+  color: blue !important;
+}
+.btnm{
+    border: none;
+}
+.btn-default{
+width:100% !important;
+}
+
+}
+
+
+/*
+Mobile Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the Mobile and Tablet Portrait view */
+
+@media only screen and (max-width: 767px) {
+  /* Add your Mobile Styles here */
+
+}
+.table td {
+    border: 1px solid black;
+}
+.table th {
+    border: 1px solid black;
+}
+table.table tr td:nth-child(1) {
+    min-width: 53px;
+}
+
+table.table tr td:nth-child(2) {
+    min-width: 61px;
+}
+table.table tr td:nth-child(3) {
+    min-width: 51px;
+}
+a.btn{
+	margin: 3px 0px;
+    text-align: left;
+}
+a:nth-child(1) {
+    text-align: center;
+}
+button.btn.btn-default {
+    text-align: left;
+}

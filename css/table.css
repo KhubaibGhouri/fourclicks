@@ -1,0 +1,180 @@
+.table td {
+    border: 1px solid #ccc !important;
+}
+.table th {
+    border: 1px solid #ccc !important;
+}
+table.table tr td:nth-child(1) {
+    min-width: 53px;
+}
+
+table.table tr td:nth-child(2) {
+    min-width: 61px;
+}
+table.table tr td:nth-child(3) {
+    min-width: 51px;
+}
+ul.list-unstyled.footer_contact li {
+    border-bottom: 1px solid #f2f2f2;
+    padding-bottom: 12px;
+    margin-right: 20px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    }
+
+ul.list-unstyled.footer_contact li:nth-child(3) {
+   border: none;
+    }
+td a span {
+    margin-right: 10px;
+}
+.footer_item p{
+	border-bottom: 1px solid #f2f2f2;
+    padding-bottom: 12px;
+    margin-right: 20px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+
+}  
+.footer_item h4 span{
+	padding-right: 10px;
+}  
+
+a.btn {
+    text-align: left;
+   	font-size: 14px;
+}
+a:nth-child(1) {
+    text-align: center;
+}
+a {
+    font-size: 14px;
+}
+.avia_textblock p{
+	text-align: left;
+}
+.avia_textblock ul li{
+	text-align: left;
+}
+.avia_textblock div{
+	text-align: left;
+}
+
+
+
+
+/*sign up page*/
+a.btn.btn-success.btn-lg.btn-block {
+    text-align: center;
+    font-size: 14px;
+}
+.form_pad_adj{
+	padding:200px;
+}
+
+.sign_main_con_adj{
+	    padding: 10px 100px;
+    border: 1px solid rgb(204, 204, 204);
+}
+.sign_con_adj{
+	padding: 50px 80px;
+}
+.top1em {
+    margin-top: 1em;
+}
+.sign_cond_adj {
+    width: 100%;
+    padding: 0;
+    margin: 10px 0 20px 0;
+    font-size: 13px;
+}
+.sign_cond_adj {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.td_adj:first-child th, .td_adj:first-child td {
+    border: 1px solid  rgb(204, 204, 204);
+
+}
+.td_adj th:first-child	{
+    border-left-style: solid;
+    border-left-width: 1px;
+}
+
+.td_adj td:first-child {
+    border-left: 1px solid  rgb(204, 204, 204);
+    padding: 10px;
+}
+
+.td_adj th {
+    font-weight: bold;
+    letter-spacing: 1.0px;
+    text-transform: uppercase;
+    text-align: left;
+    padding: 9px 12px;
+    border-style: solid;
+    border-width: 1px;
+    border-left: none;
+    border-top: none;
+}
+
+.td_adj th:first-child, .td_adj td:first-child {
+    border-left-style: solid;
+    border-left-width: 1px;
+
+}
+#pmpro_license {
+    background: #FFF;
+    border: 1px solid #CCC;
+    color: #666;
+    height: 200px;
+    margin: 3px;
+    overflow: auto;
+    padding: 5px;
+}
+#top label {
+    font-weight: bold;
+    font-size: 0.92em;
+}
+
+.button {
+    background-color: #F9583B; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+}
+
+/*pannal*/
+
+.tabl_pad{
+	margin-top: 20px;
+}
+ .sidenav {
+      background-color: rgba(128, 128, 128, 0.04);
+      height:100vh;
+     
+      border: 1px solid #ccc;
+    }
+    
+    /* Set black background color, white text and some padding */
+    
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        height: auto;
+        padding: 15px;
+      }
+      .row.content {height: auto;} 
+    }
+
+ .para_adj {
+    text-align: center;
+    padding-top: 21px;
+    font-size: 22px;
+}

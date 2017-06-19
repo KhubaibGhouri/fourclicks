@@ -1,0 +1,27 @@
+[20-Apr-2017 09:10:39 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'fourc385_mangood'@'localhost' (using password: YES) in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 8
+[20-Apr-2017 09:10:39 America/New_York] PHP Notice:  Trying to get property of non-object in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 11
+[20-Apr-2017 09:10:39 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 19
+[20-Apr-2017 09:10:39 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 20
+[20-Apr-2017 09:11:30 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'fourc385_mangood'@'localhost' (using password: YES) in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 8
+[20-Apr-2017 09:11:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 11
+[20-Apr-2017 09:11:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 19
+[20-Apr-2017 09:11:30 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 20
+[20-Apr-2017 09:11:30 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 29
+[20-Apr-2017 09:11:30 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 33
+[20-Apr-2017 09:11:30 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 34
+[20-Apr-2017 09:11:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 58
+[20-Apr-2017 09:11:30 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 64
+[20-Apr-2017 09:24:28 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 16
+[20-Apr-2017 09:24:28 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 20
+[20-Apr-2017 09:24:28 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 21
+[20-Apr-2017 09:27:17 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 16
+[20-Apr-2017 09:27:17 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 20
+[20-Apr-2017 09:27:17 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 21
+[20-Apr-2017 09:27:17 America/New_York] PHP Warning:  move_uploaded_file(../../../../../uploads/abc.jpg): failed to open stream: No such file or directory in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 32
+[20-Apr-2017 09:27:17 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprLjXTB' to '../../../../../uploads/abc.jpg' in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 32
+[20-Apr-2017 09:30:36 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 16
+[20-Apr-2017 09:30:36 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 20
+[20-Apr-2017 09:30:36 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 21
+[20-Apr-2017 10:13:36 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 16
+[20-Apr-2017 10:13:36 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 20
+[20-Apr-2017 10:13:36 America/New_York] PHP Notice:  Undefined index: file in /home/muhasdqu/new.muhammadimran.info/pricing/contractor/edit/edit2.php on line 21

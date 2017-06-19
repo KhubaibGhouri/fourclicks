@@ -1,0 +1,114 @@
+#last{
+    width: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+li4{
+    display: inline;
+    text-decoration: none;
+    width: 3px;
+    border: 1px solid black;
+}
+body{
+    background-color: #FFFFFF;
+}
+.Lib1{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #154B77;
+    font-weight: 600;
+    height: 30px;
+    background: #D8E5ED;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+.documenttype{
+    position: relative;
+    top: 18px;
+}
+.contractorname{
+    border-bottom: 1px solid #AAAAAA;
+}
+.buttontype{
+    background-color: #ffffff !important;
+    color: #aaaaaa;
+    border: none !important;
+}
+.buttontype:hover {
+    background-color: #ffffff !important;
+    color: #aaaaaa;
+    border: none !important;
+}
+a1{
+    text-decoration: none;
+    
+}
+.document{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #337ab7
+    width:400px;
+}
+.glyphicon-plus{
+    border: 2px solid;
+    border-radius: 10px;
+}
+.expireddoc{
+    position: relative;
+    top: 100px;
+}
+.mainimg{
+    background-image: url("img/12.png");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 1000px;
+}
+.disply{
+    width: 200px;
+}
+.btn1:focus  {
+  color: blue !important;
+}
+.btn1{
+    border: none;
+}
+.well{
+  padding: 0px !important;     
+  background-color: #ffffff; 
+  box-shadow: none !important;
+  background: white;
+ 
+}
+.table>tbody>tr>td{
+   padding: 5px !important;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+.coloer-best{   width: 100%;
+    border: none;
+    position: relative;
+    / top: 10px; /
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-align: left;}
+.btn-default{
+width:100% !important;
+color:green;
+}
+.btn-default{
+    font-size: 13px !important;
+    color: black !important;
+    font-weight: 400 !important;
+    font-family: open sans-serif !important;
+    text-align: left !important;
+}
+.testing-col{
+   position: relative;
+    top: -950px;
+}
+.row-img-12-best{
+    position: relative;
+    margin-top: -166px !important;}
