@@ -1,9 +1,9 @@
 <div class="row content">
     <div class="col-sm-2 sidenav">
       <ul class="nav nav-pills nav-stacked ">
-      	<p class="para_adj">Admin Panel</p>
-      	<hr>
-        
+        <p class="para_adj">Admin Panel</p>
+        <hr>
+         <li><a href="admin-add-member.php">Add New Member</a></li>
         <li><a href="admin-contractor.php">Contractor List</a></li>
         <li><a href="admin-client.php">Client List</a></li>
        
