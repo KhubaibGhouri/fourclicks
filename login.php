@@ -27,11 +27,25 @@ include ('connect.php');
                                 <div class="" id="ahmad">
                                     <div class="modal-dialog">
                                     <?php
-  if(isset($_GET['error'])){
+  if($_GET['error']==1){
 ?>
   <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
-  <strong> Invalid Email or Password ! 
+  <strong> Invalid Email or Password !  </strong>
+</div>
+<?php } 
+ if($_GET['error']==2){
+?>
+  <div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+  <strong> Your Account is Inactive. Please Activate   !  </strong>
+</div>
+<?php } 
+ if($_GET['error']==3){
+?>
+  <div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+  <strong> Your Account has been Expired!  </strong>
 </div>
 <?php } ?>
                                         <form method="post" action="user-login.php">
